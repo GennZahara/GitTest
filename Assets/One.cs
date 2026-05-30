@@ -14,7 +14,7 @@ public class One : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        int num = 10;
+        int num = 123;
         Debug.Log(num);
     }
 }
